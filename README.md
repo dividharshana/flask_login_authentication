@@ -1,6 +1,6 @@
 # flask_login_authentication
 
-## installation steps
+## Installation steps
 
 * Setup the virtual environment
 ```virtualenv -p python3 .venv```
@@ -23,7 +23,7 @@ db.create_all(app=create_app())
 
 ```flask run```
 
-**Note:**The server runs on http://127.0.0.1:5000
+**Note:The server runs on http://127.0.0.1:5000
 
 ## Screenshots
 
@@ -35,11 +35,11 @@ db.create_all(app=create_app())
 
 ![image](https://user-images.githubusercontent.com/88674671/219829118-0f1b74fa-bbc9-48e8-9d0e-ddec614121c4.png)
 
-### signup page 
+### Signup page 
 
 ![image](https://user-images.githubusercontent.com/88674671/219829147-50cc6578-fe49-4a7e-9123-d82548820226.png)
 
-### profile page
+### Profile page
 
 ![image](https://user-images.githubusercontent.com/88674671/219829174-2bb2c20e-ed85-4a01-92a7-a6d3659d7ba8.png)
 
