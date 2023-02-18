@@ -3,10 +3,13 @@
 ## Installation steps
 
 * Setup the virtual environment
+* 
 ```virtualenv -p python3 .venv```
 * Activate the virtual environment
+* 
 ```.venv/Scripts/activate```
 * Install Flask,Flask-Login,Flask-SQLAlchemy
+* 
 ```python -m pip install flask```
 ```python -m pip install flask-login```
 ```python -m pip install flask-sqlalchemy```
